@@ -109,7 +109,7 @@ section::before {
 }
 
 #work-1:hover::after{
-    content: 'Web Project';
+    content: 'IT Infrastruktur & Network';
 }
 
 #work-2 {
@@ -117,7 +117,7 @@ section::before {
 }
 
 #work-2:hover::after{
-    content: 'Software Project';
+    content: 'End-User Field Monitoring';
 }
 
 #work-3 {
@@ -125,7 +125,7 @@ section::before {
 }
 
 #work-3:hover::after{
-    content: 'Software Project';
+    content: 'Engineering On Site';
 }
 
 .contact {
